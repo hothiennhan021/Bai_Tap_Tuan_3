@@ -1,4 +1,5 @@
-# Bai_Tap_Tuan_3_Nhom_10
+Bài tập tuần 3 - Nhóm 10
+#Danh sách thành viên
 23521073	Hồ Thiện Nhân
 
 24520947	Phạm Hữu Lầu

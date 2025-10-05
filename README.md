@@ -23,5 +23,14 @@
   - Có thể tìm lại user trong DB
 
 - Kết quả: test thành công (hiện thông báo `Đã thêm user admin` hoặc `User admin đã tồn tại`)
+# Nguyễn Huỳnh Đăng Khoa
+- Cơ bản chức năng đăng nhập và lấy lại mật khẩu
+## Truy vấn SQL
+
+Đã tạo truy vấn từ SQL trong các file sau:
+
+- `AccountRepository.cs` — Xử lý các truy vấn liên quan đến tài khoản (lấy thông tin qua username hoặc email/số điện thoại, paswork).
+- `DatabaseHelper.cs` — Hỗ trợ thực thi câu lệnh SQL và trả về kết quả dạng `DataTable`.
+
 
 

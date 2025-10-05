@@ -31,6 +31,13 @@
 
 - `AccountRepository.cs` — Xử lý các truy vấn liên quan đến tài khoản (lấy thông tin qua username hoặc email/số điện thoại, paswork).
 - `DatabaseHelper.cs` — Hỗ trợ thực thi câu lệnh SQL và trả về kết quả dạng `DataTable`.
+# Hồ Thiện Nhân
+- Thiết kế giao diện cho các mục:
 
+Đăng Nhập
+
+Đăng Ký
+
+Quên Mật Khẩu
 
 

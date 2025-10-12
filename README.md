@@ -33,8 +33,6 @@
 - `DatabaseHelper.cs` — Hỗ trợ thực thi câu lệnh SQL và trả về kết quả dạng `DataTable`.
 # Hồ Thiện Nhân
 
-- Tổng hợp các file thành sản phẩm hoàn chỉnh
-
 - Thiết kế giao diện cho các mục:
 
 Đăng Nhập
@@ -42,14 +40,6 @@
 Đăng Ký
 
 Quên Mật Khẩu
-
-- Khởi tạo các file:
-
-TaiKhoan.cs
-
-Connection.cs
-
-Modify.cs
 
 # Nguyễn Xuân Trung 
 - Viết chương trình đăng ký kiểm tra dữ liệu đầu vào , hiện thị thông báo khi dữ liệu k đúng định dạng và khi đăng ký thành công

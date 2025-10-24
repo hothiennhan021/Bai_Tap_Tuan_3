@@ -39,8 +39,6 @@
 
 Đăng Ký
 
-Quên Mật Khẩu
-
 # Nguyễn Xuân Trung 
 - Viết chương trình đăng ký kiểm tra dữ liệu đầu vào , hiện thị thông báo khi dữ liệu k đúng định dạng và khi đăng ký thành công
   

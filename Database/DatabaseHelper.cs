@@ -8,7 +8,7 @@ public class DatabaseHelper
     // 1. L?u chu?i k?t n?i ? m?t n?i duy nh?t
     private static string connectionString = @"Data Source=TEN_SERVER;Initial Catalog=USERMANAGEMENT;Integrated Security=True";
 
-    // 2. Ph??ng th?c ?? ch?y c·c c‚u l?nh SELECT (tr? v? d? li?u)
+    // 2. Ph??ng th?c ?? ch?y c√°c c√¢u l?nh SELECT (tr? v? d? li?u)
     public static DataTable ExecuteQuery(string query, SqlParameter[] parameters = null)
     {
         DataTable dataTable = new DataTable();
@@ -30,7 +30,7 @@ public class DatabaseHelper
                 }
                 catch (Exception ex)
                 {
-                    // X? l˝ l?i
+                    // X? l√Ω l?i
                     Console.WriteLine("L?i DatabaseHelper.ExecuteQuery: " + ex.Message);
                 }
             }
@@ -38,7 +38,7 @@ public class DatabaseHelper
         return dataTable;
     }
 
-    // 3. Ph??ng th?c ?? ch?y c·c c‚u l?nh INSERT, UPDATE, DELETE (khÙng tr? v? d? li?u)
+    // 3. Ph??ng th?c ?? ch?y c√°c c√¢u l?nh INSERT, UPDATE, DELETE (kh√¥ng tr? v? d? li?u)
     public static int ExecuteNonQuery(string query, SqlParameter[] parameters = null)
     {
         int rowsAffected = 0;
@@ -57,9 +57,9 @@ public class DatabaseHelper
                 }
                 catch (Exception ex)
                 {
-                    // X? l˝ l?i
+                    // X? l√Ω l?i
                     Console.WriteLine("L?i DatabaseHelper.ExecuteNonQuery: " + ex.Message);
-                    rowsAffected = -1; // Tr? v? -1 n?u cÛ l?i
+                    rowsAffected = -1; // Tr? v? -1 n?u c√≥ l?i
                 }
             }
         }

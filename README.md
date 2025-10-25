@@ -11,6 +11,7 @@ Danh sách thành viên: <br>
   - Đăng Nhập <br>
   - Đăng Ký <br>
   - Quên Mật Khẩu <br>
+- Chỉnh sửa lại giao diện trên github 
 ## CÔNG VIỆC CỦA PHẠM HỮU LẦU: <br>
 
 ## CÔNG VIỆC CỦA PHẠM GIA LÂM: <br>

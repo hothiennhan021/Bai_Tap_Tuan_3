@@ -1,6 +1,6 @@
 # BÀI TẬP TUẦN 3 <br>
 # LƯU Ý: <br>
-- Nên để file ở thư mục Downloads để thuận tiện nhất khi chạy <br>
+- Nên để file ở thư mục Downloads -> Extract Here để thuận tiện nhất khi chạy <br>
 - Nếu để file ở thư mục khác thì phải cập nhật lại ConnectionString của database trong file connection.cs <br>
 # Danh sách thành viên: <br>
 23521073 - Hồ Thiện Nhân - Nhóm Trưởng <br>

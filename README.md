@@ -15,7 +15,7 @@
   - Đăng Ký <br>
   - Quên Mật Khẩu <br>
 - Kiểm tra lại sản phẩm cuối cùng
-## CÔNG VIỆC CỦA : <br>
+## CÔNG VIỆC CỦA : Phạm Hữu Lầu <br>
 - Tạo database và kết nối database tới giao diện <br>
 - Thêm các hàm cho phép chỉnh sửa thông tin người dùng trên database <br>
 ## CÔNG VIỆC CỦA : Nguyễn Xuân Trung

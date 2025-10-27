@@ -13,15 +13,15 @@ Danh sách thành viên: <br>
   - Quên Mật Khẩu <br>
 - Kiểm tra lại sản phẩm cuối cùng
 ## CÔNG VIỆC CỦA PHẠM HỮU LẦU: <br>
-- Lập trình logic cho giao diện đăng ký <br>
-- Thiết kế chuẩn mã hóa mật khẩu SHA256 <br>
-## CÔNG VIỆC CỦA PHẠM GIA LÂM: <br>
-- Lập trình logic cho giao diện quên mật khẩu <br>
-## CÔNG VIỆC CỦA HUỲNH NGUYỄN ĐĂNG KHOA: <br>
-- Lập trình logic cho giao diện đăng nhập <br>
-## CÔNG VIỆC CỦA NGUYỄN XUÂN TRUNG: <br>
 - Tạo database và kết nối database tới giao diện <br>
 - Thêm các hàm cho phép chỉnh sửa thông tin người dùng trên database <br>
+## CÔNG VIỆC CỦA HUỲNH NGUYỄN ĐĂNG KHOA: <br>
+- Lập trình logic cho giao diện đăng ký <br>
+- Thiết kế chuẩn mã hóa mật khẩu SHA256 <br>
+## CÔNG VIỆC CỦA NGUYỄN XUÂN TRUNG: <br>
+- Lập trình logic cho giao diện đăng nhập <br>
+## CÔNG VIỆC CỦA PHẠM GIA LÂM: <br>
+- Lập trình logic cho giao diện quên mật khẩu <br>
 
 
 

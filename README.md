@@ -14,15 +14,15 @@
   - Đăng Nhập <br>
   - Đăng Ký <br>
   - Quên Mật Khẩu <br>
-## CÔNG VIỆC CỦA : Phạm Hữu Lầu <br>
+## CÔNG VIỆC CỦA: Phạm Hữu Lầu <br>
 - Tạo database và kết nối database tới giao diện <br>
 - Thêm các hàm cho phép chỉnh sửa thông tin người dùng trên database <br>
-## CÔNG VIỆC CỦA : Nguyễn Xuân Trung
+## CÔNG VIỆC CỦA: Nguyễn Xuân Trung
 - Lập trình logic cho giao diện đăng ký <br>
 - Thiết kế chuẩn mã hóa mật khẩu SHA256 <br>
-## CÔNG VIỆC CỦA : <br>
+## CÔNG VIỆC CỦA: Nguyễn Huỳnh Đăng Khoa <br>
 - Lập trình logic cho giao diện đăng nhập <br>
-## CÔNG VIỆC CỦA : <br>
+## CÔNG VIỆC CỦA: Phạm Gia Lâm <br>
 - Lập trình logic cho giao diện quên mật khẩu <br>
 - Kiểm tra lại sản phẩm cuối cùng 
 

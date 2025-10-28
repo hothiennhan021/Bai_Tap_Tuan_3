@@ -14,7 +14,6 @@
   - Đăng Nhập <br>
   - Đăng Ký <br>
   - Quên Mật Khẩu <br>
-- Kiểm tra lại sản phẩm cuối cùng
 ## CÔNG VIỆC CỦA : Phạm Hữu Lầu <br>
 - Tạo database và kết nối database tới giao diện <br>
 - Thêm các hàm cho phép chỉnh sửa thông tin người dùng trên database <br>
@@ -25,6 +24,7 @@
 - Lập trình logic cho giao diện đăng nhập <br>
 ## CÔNG VIỆC CỦA : <br>
 - Lập trình logic cho giao diện quên mật khẩu <br>
+- Kiểm tra lại sản phẩm cuối cùng 
 
 
 
